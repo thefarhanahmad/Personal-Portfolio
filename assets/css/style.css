@@ -303,6 +303,7 @@ button {
 
 .home_blob-img {
   width: 170px;
+  scale: 1.1;
 }
 
 .home_data {
@@ -322,6 +323,7 @@ button {
 
 .home_description {
   margin-bottom: var(--mb-2);
+  text-align: justify;
 }
 
 .home_scroll {
